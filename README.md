@@ -35,5 +35,10 @@ Cucial data for rigorous training are obtained through the use of these modern g
     <img src="https://raw.githubusercontent.com/reywridyll/Soteria/main/results/Method%202.PNG">
 </p>
 
+# Impact of Waves
+<p align="center">
+    <img height="500" src="https://raw.githubusercontent.com/reywridyll/Soteria/main/results/Introduction%20of%20waves.PNG">
+</p>
+
 ## [Google Drive](https://drive.google.com/drive/folders/1Dk61_GZPk3sXa0BTTYdTasRWN76ah6Md?usp=sharing)
 Due to GitHub's strict data limit of 100MB, files are uploaded on [Google Drive.](https://drive.google.com/drive/folders/1Dk61_GZPk3sXa0BTTYdTasRWN76ah6Md?usp=sharing)
