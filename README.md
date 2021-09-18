@@ -35,7 +35,7 @@ Cucial data for rigorous training are obtained through the use of these modern g
     <img src="https://raw.githubusercontent.com/reywridyll/Soteria/main/results/Method%202.PNG">
 </p>
 
-# Impact of Waves
+# Impact of Rough Waves
 <p align="center">
     <img height="500" src="https://raw.githubusercontent.com/reywridyll/Soteria/main/results/Introduction%20of%20waves.PNG">
 </p>
